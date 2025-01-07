@@ -1,0 +1,4 @@
+name: combatcore
+version: '1.0-SNAPSHOT'
+main: com.itaromi.combatcore.Combatcore
+api-version: '1.21'

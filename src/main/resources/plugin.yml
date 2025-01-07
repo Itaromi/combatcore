@@ -3,3 +3,8 @@ version: '1.0-SNAPSHOT'
 main: com.itaromi.combatcore.Combatcore
 api-version: '1.21'
 author: 'Itaromi'
+commands:
+  blabla:
+    description: 'mmmmmh ?'
+    permission: admin.tuto
+    permission-message: "§cTu ne peux pas faire cette commande !"
